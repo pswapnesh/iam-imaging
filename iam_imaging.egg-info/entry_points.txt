@@ -1,3 +1,0 @@
-[console_scripts]
-iam-imaging = iam_imaging.iam_imaging_cmd:main
-
