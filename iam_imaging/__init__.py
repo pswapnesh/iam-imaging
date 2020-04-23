@@ -1,4 +1,4 @@
-from skimage.io import imread,imsave
+from matplotlib.pyplot import imread,imsave
 def image_read(f):
     return imread(f)
 
